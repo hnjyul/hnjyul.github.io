@@ -1,3 +1,2 @@
-# Portfolio project 
+# Drive project 
 
-이 프로젝트는 김현진의 개인 이력을 담은 포트폴리오 사이트를 만드는 것을 목표로 합니다. 
